@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "N6+Jipe7fcF2xsGCJbsQ3tn01doW6R7fY5b0XVJdRKw=",
+  "Source": "CountryTaskBackend",
+  "BasePath": "_content/CountryTaskBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CountryTaskBackend\\wwwroot",
+      "Source": "CountryTaskBackend",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\CountryTaskBackend\\CountryTaskBackend\\wwwroot\\",
+      "BasePath": "_content/CountryTaskBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\CountryTaskBackend\\CountryTaskBackend\\wwwroot\\assets\\css\\style.css",
+      "SourceId": "CountryTaskBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\CountryTaskBackend\\CountryTaskBackend\\wwwroot\\",
+      "BasePath": "_content/CountryTaskBackend",
+      "RelativePath": "assets/css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
+    }
+  ]
+}
